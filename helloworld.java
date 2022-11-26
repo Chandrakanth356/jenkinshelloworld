@@ -2,6 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Made some changes!"); 
+        System.out.println("Hello, edited using webhook!"); 
     }
 }
